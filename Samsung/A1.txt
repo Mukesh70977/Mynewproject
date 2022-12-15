@@ -2,4 +2,5 @@ Version Lollypop
 version Choclate
 ls
 
-there is no updates till 2023
+new will update soon
+
